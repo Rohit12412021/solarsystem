@@ -1,0 +1,75 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Full-screen canvas */
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+/* Speed Control Container */
+#speed-control {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.75);
+  padding: 12px 18px;
+  border-radius: 12px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  z-index: 100;
+  text-align: center;
+  width: 90%;
+  max-width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+/* Slider */
+#speed-slider {
+  width: 100%;
+  margin-top: 6px;
+  appearance: none;
+  height: 6px;
+  background: #555;
+  border-radius: 3px;
+  outline: none;
+  transition: background 0.3s;
+}
+
+#speed-slider:hover {
+  background: #888;
+}
+
+/* Slider Thumb */
+#speed-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #00ffff;
+  cursor: pointer;
+  box-shadow: 0 0 4px #00ffff;
+  transition: background 0.3s, transform 0.3s;
+}
+
+#speed-slider::-webkit-slider-thumb:hover {
+  background: #00bfff;
+  transform: scale(1.2);
+}
+
+#speed-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #00ffff;
+  cursor: pointer;
+  box-shadow: 0 0 4px #00ffff;
+}
