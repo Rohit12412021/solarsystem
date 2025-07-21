@@ -6,13 +6,13 @@ This is an interactive 3D Solar System project built using [Three.js](https://th
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live project](https://solarsystem-six-green.vercel.app)
+🔗 [Click here to view the live project](https://solarsystem-8f1m.vercel.app/)
 
 ---
 
 ## 🎥 Demo Video
 
-📺 [Watch the project demo](https://drive.google.com/file/d/your-demo-video-id/view)
+📺 [Watch the project demo](https://drive.google.com/drive/folders/1cWs9DrY-UmeW_AxJ_BSOF8GrVi5NzuGP?usp=drive_link)
 
 ---
 
