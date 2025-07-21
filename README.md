@@ -12,7 +12,7 @@ This is an interactive 3D Solar System project built using [Three.js](https://th
 
 ## 🎥 Demo Video
 
-📺 [Watch the project demo](https://drive.google.com/drive/folders/1cWs9DrY-UmeW_AxJ_BSOF8GrVi5NzuGP?usp=drive_link)
+📺 [Watch the project demo](https://drive.google.com/file/d/1107Y_SzxyCSqA_11d_1MpOMpZL2RcxKb/view?usp=drive_link)
 
 ---
 
